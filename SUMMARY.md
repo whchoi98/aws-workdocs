@@ -7,7 +7,7 @@
 * [2. 사용자 초대 및 관리](2.invite_mgmt.md)
 * [3.파일 및 폴더 작업](3.file_folder.md)
 * [4.파일 및 폴더 공유](4.file_folder_share.md)
-* [5.의견 및 공동편집](5.collobo.md)
+* [5.의견/공동편집/승인작업](5.collobo.md)
 * [6.Approval 작업](6.approval.md)
 * [Untitled](untitled.md)
 
