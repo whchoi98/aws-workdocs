@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AWS WorkDocs Hands On Lab](README.md)
+* [AWS WorkDocs - Hands On Lab](README.md)
 * [1.Workdocs 생성하기](1.workdocs_start/README.md)
   * [1.1 WorkDocs 소개](1.workdocs_start/1.1.workdocs_overview.md)
   * [1.2 WorkDocs 생성](1.workdocs_start/1.2.workdocs_create.md)

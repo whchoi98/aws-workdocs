@@ -2,7 +2,7 @@
 description: 'Update : 2020-03-14'
 ---
 
-# AWS WorkDocs Hands On Lab
+# AWS WorkDocs - Hands On Lab
 
 ### [1. WorkDocs 생성하기](1.workdocs_start/)
 
@@ -14,7 +14,7 @@ description: 'Update : 2020-03-14'
 
 ### [5. 파일 활동 추적 및 계정관](5.collobo.md)
 
-### [6. 추적과 관리](tracking_mgmt.md)
+### [6. 추적과 관리](tracking_mgmt.md) 
 
 
 
